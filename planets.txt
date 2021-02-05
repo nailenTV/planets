@@ -1,3 +1,5 @@
 Merkur
 Venus
 Erde
+Jupiter
+Saturn
