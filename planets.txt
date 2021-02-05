@@ -3,3 +3,5 @@ Venus
 Erde
 Jupiter
 Saturn
+Uranus
+Neptun
